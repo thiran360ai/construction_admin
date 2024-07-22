@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/construction_admin/static/css/main.0b93edf0.css",
+    "main.js": "/construction_admin/static/js/main.81354bff.js",
+    "static/js/453.2e76bdc8.chunk.js": "/construction_admin/static/js/453.2e76bdc8.chunk.js",
+    "index.html": "/construction_admin/index.html",
+    "main.0b93edf0.css.map": "/construction_admin/static/css/main.0b93edf0.css.map",
+    "main.81354bff.js.map": "/construction_admin/static/js/main.81354bff.js.map",
+    "453.2e76bdc8.chunk.js.map": "/construction_admin/static/js/453.2e76bdc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b93edf0.css",
+    "static/js/main.81354bff.js"
+  ]
+}
