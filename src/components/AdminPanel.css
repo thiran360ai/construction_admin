@@ -1,0 +1,14 @@
+.admin-panel {
+    display: flex;
+    height: 100vh;
+    background-image: url('/path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 16px;
+  }
+  
